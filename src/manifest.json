@@ -1,6 +1,6 @@
 {
   "name": "Redmine Issue Assigned Auto Complete",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "manifest_version": 2,
   "description": "You can select the person in charge for Redmine with auto complete.",
   "icons": {
